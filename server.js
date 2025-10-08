@@ -13,7 +13,7 @@ dotenv.config();
 
 const app = express();
 app.use(cors({
-  origin: ["http://localhost:5173", "http://localhost:5174"], // Allow frontend origin
+  origin: ["https://zenpulse-ui.vercel.app"], // Allow frontend origin
   credentials: true // Allow credentials if needed
 }));
 app.use(express.json());
