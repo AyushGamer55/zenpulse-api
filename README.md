@@ -1,6 +1,6 @@
 # ZenPulse API
 
-A personal wellness dashboard API that tracks mood, productivity, and habits with AI-powered motivational support and insights.
+🤖 A personal wellness dashboard API that tracks mood, productivity, and habits with AI-powered motivational support and insights.
 
 ## 🚀 Features
 
